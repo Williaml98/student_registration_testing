@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/Pictures/txw2-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/William/3D Objects/lib/postgresql-42.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
